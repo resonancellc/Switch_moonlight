@@ -1,0 +1,8 @@
+/usr/local/share/moonlight/gamecontrollerdb.txt
+Scroll to the end and add this line
+Iif you want Nintendos layout:
+050000007e0500000620000001000000,Nintendo Switch Joy-Cons,a:b1,b:b0,back:b9,dpdown:b15,dpleft:b16,dpright:b17,dpup:b14,guide:b11,leftshoulder:b5,leftstick:b12,lefttrigger:b7,leftx:a0,lefty:a1,rightshoulder:b6,rightstick:b13,righttrigger:b8,rightx:a2,righty:a3,start:b10,x:b2,y:b3,
+If you want Microsoft layout (invert a and b, x and y):
+Code:
+050000007e0500000620000001000000,Nintendo Switch Joy-Cons,a:b0,b:b1,back:b9,dpdown:b15,dpleft:b16,dpright:b17,dpup:b14,guide:b11,leftshoulder:b5,leftstick:b12,lefttrigger:b7,leftx:a0,lefty:a1,rightshoulder:b6,rightstick:b13,righttrigger:b8,rightx:a2,righty:a3,start:b10,x:b3,y:b2,
+

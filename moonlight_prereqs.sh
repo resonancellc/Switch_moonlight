@@ -1,0 +1,1 @@
+apt-get install libsdl2-dev libopus0 libexpat1 libasound2 libudev1 libavahi-client3 libevdev2 libenet7 libssl-dev libopus-dev libasound2-dev libudev-dev libavahi-client-dev libcurl4-openssl-dev libevdev-dev libexpat1-dev libpulse-dev uuid-dev libenet-dev cmake gcc g++ fakeroot debhelper libavcodec-dev libsdl2-dev
